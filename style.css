@@ -268,7 +268,18 @@ input[type="submit"]:hover {
   background-color: #4cafef;
   transform: translateY(-1px);
 }
+/* General file input styling */
+input[type="file"] {
+  font-size: 1.2rem;          /* Increase text size */
+  padding: 0.6em 1.2em;       /* Increase padding */
+  border-radius: 6px;         /* Rounded corners */
+  cursor: pointer;
+}
 
+/* Optional: make it stand out on hover */
+input[type="file"]:hover {
+  background-color: #f0f8ff;  /* Light background on hover */
+}
 /* Force Category Totals flush-left while keeping numeric alignment */
 #categoryTotals { display: block !important; margin: 6px 0 !important; text-align: left !important; }
 #categoryTotals table.cats { margin-left: 0 !important; margin-right: 0 !important; }
