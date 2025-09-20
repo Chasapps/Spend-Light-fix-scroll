@@ -239,7 +239,7 @@ details#rulesDetails summary { cursor: pointer; }
 }
 /* Global button sizing */
 :root {
-  --btn-font-size: 1.1rem;   /* adjust text size here */
+  --btn-font-size: 1.8rem;   /* adjust text size here */
   --btn-padding-y: 0.5em;    /* vertical padding */
   --btn-padding-x: 1.2em;    /* horizontal padding */
   --btn-radius: 6px;         /* corner rounding */
