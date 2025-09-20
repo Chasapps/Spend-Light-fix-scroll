@@ -270,7 +270,7 @@ input[type="submit"]:hover {
 }
 /* General file input styling */
 input[type="file"] {
-  font-size: 1.2rem;          /* Increase text size */
+  font-size: 1.8rem ba;          /* Increase text size */
   padding: 0.6em 1.2em;       /* Increase padding */
   border-radius: 6px;         /* Rounded corners */
   cursor: pointer;
