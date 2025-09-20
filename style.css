@@ -257,7 +257,7 @@ input[type="file"] {
 
 /* Optional: for especially large buttons (e.g., Browse File) */
 .btn-large {
-  font-size: calc(var(--btn-font-size) * 1.4);
+  font-size: calc(var(--btn-font-size) * 1.8);
   padding: calc(var(--btn-padding-y) * 1.4) calc(var(--btn-padding-x) * 1.6);
 }
 
